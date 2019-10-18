@@ -20,3 +20,4 @@ There's no initial end goal. Let's see what, as a community, we end up building.
 Note: The answer is tabs. Unless when you press tab, your editor turns it into spaces.
 
 3. What is the best IDE?
+Note: This depends on the language in use.
